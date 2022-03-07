@@ -1,4 +1,4 @@
-WHAT THE FILES EXECUTE
+WHAT EACH SCRIPT EXECUTE
 1. 0-iam_betty :- switches the current user to the user betty
 2. 1-who_am_i :- prints the effective username of the current user
 3. 2-groups :- prints all the groups the current user is part of 
@@ -14,7 +14,7 @@ WHAT THE FILES EXECUTE
 	the group owner and all other users while regular files are kept intact
 13. 12-directory_permission :- creats a directory with permission 751 in the working directory
 14. 13-change_group :- changes the group owner to school for the file hello
-15. 100-change_owner_and_group :- changes the owner to vincent and the group owner to staff for all files and           	 directories in the working directory
+15. 100-change_owner_and_group :- changes the owner to vincent and the group owner to staff for all files and           	directories in the working directory
 16. 101-symbolic_link_permission :- changes the owner and group owner of _hello to vincent and staff respectively
 17. 102-if_only :- changes the owner of the file hello to betty only it is owned by the user guillaume
 18. 103-star_wars :- plays the wars IV episode in the terminla
